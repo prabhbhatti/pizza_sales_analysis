@@ -10,7 +10,7 @@ A year-long analysis of pizza sales using SQL & Excel.
 | $817,860 | 21,350 | 49,574 | $38.31 |
 
 ## 📸 Dashboard Preview
-![Dashboard](visuals/dashboard.png)
+![Dashboard](visuals/01_Pizza Sales Dashboard/Overall Dashboard.png)
 
 ## 📁 Repository Structure
 - `data/` — raw dataset
