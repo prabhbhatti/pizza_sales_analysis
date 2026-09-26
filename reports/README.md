@@ -1,3 +1,19 @@
-# Reports
+# 🍕 Pizza Sales Analysis
 
-   Place final deliverables here: PDFs, Word docs, slide decks.
+> **📊 [Read the Full Report Here](reports/Pizza_Sales_Report.md)** ← Start here!
+
+A year-long analysis of pizza sales using SQL & Excel.
+
+## Quick Results
+| Total Revenue | Orders | Pizzas Sold | Avg Order Value |
+|--------------|--------|-------------|-----------------|
+| $817,860 | 21,350 | 49,574 | $38.31 |
+
+## 📸 Dashboard Preview
+![Dashboard](visuals/dashboard.png)
+
+## 📁 Repository Structure
+- `data/` — raw dataset
+- `queries/` — SQL queries for all KPIs
+- `reports/` — full analysis report
+- `visuals/` — charts & dashboard
