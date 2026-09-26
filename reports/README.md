@@ -1,6 +1,6 @@
 # 🍕 Pizza Sales Analysis
 
-> **📊 [Read the Full Report Here](reports/Pizza_Sales_Report.md)** ← Start here!
+> **📊 [Read the Full Report Here](Pizza%20Sales%20Report.docx)** ← Start here!
 
 A year-long analysis of pizza sales using SQL & Excel.
 
