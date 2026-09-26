@@ -3,8 +3,7 @@
 An end-to-end data analysis project exploring pizza sales performance using SQL. This project answers key business questions around revenue, order trends, customer behavior, and product performance — turning raw sales data into actionable insights.
 
 <!-- ⚠️ Replace the path below with your actual dashboard image -->
-![Pizza Sales Dashboard](visuals/01_Pizza%20Sales%20Dashboard/Dashboard.png)
-
+![Pizza Sales Dashboard](../visuals/01_Pizza%20Sales%20Dashboard/Overall%20Dashboard.png)
 ---
 
 ## 📌 Project Overview
@@ -114,6 +113,6 @@ The goal of this project is to analyze a pizza restaurant's sales data to help s
 ## 📬 Contact
 
 <!-- ⚠️ Add your details -->
-**[Your Name]**
-- LinkedIn: [your-linkedin-url]
-- Email: your.email@example.com
+**Bhatti Prabhpreet Singh**
+- LinkedIn: https://www.linkedin.com/in/bhatti-prabhpreet-singh/
+- Email: prabhbhatti.psb@gmail.com
