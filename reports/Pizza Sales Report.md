@@ -125,7 +125,7 @@ The analysis set out to answer five core business questions:
 | 4 | The California Chicken Pizza | 1,615 |
 | 5 | The Hawaiian Pizza | 1,602 |
 
-![Top 5 Best Sellers](../visuals/04_Best%20and%20Worst%20Sellers/Top%205%20Best%20Sellers%20by%20Total%20Pizzas%20Sold.png)
+![Top 5 Best Sellers](../visuals/04_Best%20and%20Worst%20Sellers/Top%205%20Best%20Sellers%20by%20Total%20Pizzas%20Sold%20.png)
 
 ### 4.7 Bottom 5 Worst-Selling Pizzas
 
@@ -137,7 +137,7 @@ The analysis set out to answer five core business questions:
 | 4 | The Spinach Pesto Pizza | 652 |
 | 5 | The Chicken Pesto Pizza | 653 |
 
-![Bottom 5 Worst Sellers](../visuals/04_Best%20and%20Worst%20Sellers/Bottom%205%20Worst%20Sellers%20by%20Total%20Pizzas%20Sold.png)
+![Bottom 5 Worst Sellers](../visuals/04_Best%20and%20Worst%20Sellers/Bottom%205%20Worst%20Sellers%20by%20Total%20Pizzas%20Sold%20.png)
 
 > **Insight:** Customer demand is concentrated around familiar and popular flavors such as BBQ Chicken, Pepperoni, and Hawaiian, which consistently rank among the top sellers. Specialty pizzas, particularly The Brie Carre Pizza, show significantly lower demand, with only 330 units sold. This difference highlights a clear preference for traditional menu items and may indicate an opportunity to reassess the positioning, pricing, or promotion of lower-performing specialty pizzas.
 
