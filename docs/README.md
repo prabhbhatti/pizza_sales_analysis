@@ -31,7 +31,7 @@ performing products.
 - **Microsoft Excel** – dashboard, charts, slicers
 
 ## 📊 Dashboard Preview
-![Dashboard](path/to/dashboard-screenshot.png)
+![Dashboard](../visuals/01_Pizza%20Sales%20Dashboard/Overall%20Dashboard.png)
 
 ## 📑 Data Dictionary
 | Column          | Description                          |
