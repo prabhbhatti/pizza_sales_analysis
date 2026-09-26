@@ -9,7 +9,7 @@ SELECT SUM(total_price) AS Total_Revenue
 FROM pizza_sales;
 ```
 
-*[Output image here]*
+![Total Revenue](05_SQL%20Query%20Execution/Total%20Revenue.png)
 
 ### 2. Average Order Value
 
@@ -18,7 +18,7 @@ SELECT (SUM(total_price) / COUNT(DISTINCT order_id)) AS Avg_order_Value
 FROM pizza_sales;
 ```
 
-*[Output image here]*
+![Average Order Value](05_SQL%20Query%20Execution/Average%20Order%20Value.png)
 
 ### 3. Total Pizzas Sold
 
@@ -27,7 +27,7 @@ SELECT SUM(quantity) AS Total_pizza_sold
 FROM pizza_sales;
 ```
 
-*[Output image here]*
+![Total Pizzas Sold](05_SQL%20Query%20Execution/Total%20Pizza%20Sold.png)
 
 ### 4. Total Orders
 
@@ -36,7 +36,7 @@ SELECT COUNT(DISTINCT order_id) AS Total_Orders
 FROM pizza_sales;
 ```
 
-*[Output image here]*
+![Total Orders](05_SQL%20Query%20Execution/Total%20Pizza%20Order.png)
 
 ### 5. Average Pizzas Per Order
 
@@ -47,7 +47,7 @@ SELECT CAST(CAST(SUM(quantity) AS DECIMAL(10,2)) /
 FROM pizza_sales;
 ```
 
-*[Output image here]*
+![Average Pizzas Per Order](05_SQL%20Query%20Execution/Average%20Pizza%20Order.png)
 
 ---
 
@@ -60,7 +60,7 @@ FROM pizza_sales
 GROUP BY DATENAME(DW, order_date);
 ```
 
-*[Output image here]*
+![Daily Trend for Total Orders](05_SQL%20Query%20Execution/Daily%20Trends%20of%20Orders%20Placed.png)
 
 ---
 
@@ -74,7 +74,7 @@ GROUP BY DATEPART(HOUR, order_time)
 ORDER BY DATEPART(HOUR, order_time);
 ```
 
-*[Output image here]*
+![Hourly Trend for Orders](05_SQL%20Query%20Execution/Hourly%20number%20of%20orders%20placed.png)
 
 ---
 
@@ -89,7 +89,7 @@ FROM pizza_sales
 GROUP BY pizza_category;
 ```
 
-*[Output image here]*
+![% of Sales by Pizza Category](05_SQL%20Query%20Execution/Total%20revenue%20and%20percentage%20contribution%20by%20pizza%20category.png)
 
 ---
 
@@ -105,7 +105,7 @@ GROUP BY pizza_size
 ORDER BY pizza_size;
 ```
 
-*[Output image here]*
+![% of Sales by Pizza Size](05_SQL%20Query%20Execution/Total%20revenue%20and%20percentage%20contribution%20by%20pizza%20size.png)
 
 ---
 
@@ -120,7 +120,7 @@ GROUP BY pizza_category
 ORDER BY Total_Quantity_Sold DESC;
 ```
 
-*[Output image here]*
+![Total Pizzas Sold by Pizza Category](05_SQL%20Query%20Execution/Total%20quantity%20of%20pizzas%20sold%20by%20category%20for%20the%20month%20of%20February.png)
 
 ---
 
@@ -134,7 +134,7 @@ GROUP BY pizza_name
 ORDER BY Total_Pizza_Sold DESC;
 ```
 
-*[Output image here]*
+![Top 5 Best Sellers](05_SQL%20Query%20Execution/Top%205%20pizzas%20by%20quantity%20sold.png)
 
 ---
 
@@ -148,4 +148,4 @@ GROUP BY pizza_name
 ORDER BY Total_Pizza_Sold ASC;
 ```
 
-*[Output image here]*
+![Bottom 5 Worst Sellers](05_SQL%20Query%20Execution/Bottom%205%20pizzas%20by%20quantity%20sold.png)
