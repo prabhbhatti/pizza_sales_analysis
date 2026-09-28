@@ -46,4 +46,4 @@ performing products.
 | total_price     | Total price for the line item        |
 
 ## 📝 SQL Queries
-See [`Pizza KPIs.docx`](./Pizza%20KPIs.docx) for the full query reference.
+See [`Pizza KPIs.docx`](../queries/pizza_sales_queries.sql) for the full query reference.
